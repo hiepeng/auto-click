@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
